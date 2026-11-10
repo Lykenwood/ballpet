@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">小眼睛</string>
+    <string name="eyebrow">LITTLE EYES</string>
+    <string name="title">指尖去哪，\n就看向哪。</string>
+    <string name="subtitle">一颗陪着你的小球。\n轻点、划动，让它看向你的手指。</string>
+    <string name="play_hint">在这个页面任意位置划一划</string>
+    <string name="ball_description">有两只黑色眼睛的悬浮球，可以拖动位置</string>
+    <string name="start_ball">开启悬浮球</string>
+    <string name="stop_ball">关闭悬浮球</string>
+    <string name="go_home">回到桌面看看</string>
+    <string name="status_preview">现在可以在本页体验</string>
+    <string name="status_floating">悬浮球已开启 · 本页跟随可用</string>
+    <string name="source_hint">先开启悬浮球，再授权 Shizuku，即可在其他 App 中跟随指尖。拖动小球可换位置，通过本页或通知关闭。\n\n触摸坐标仅在手机本地即时使用，不保存、不上传。锁屏或关闭小球即停止读取。手机重启后若未连接，请重新启动 Shizuku。</string>
+    <string name="connect_shizuku">授权 Shizuku · 开启全局跟随</string>
+    <string name="shizuku_authorized">Shizuku 已授权</string>
+    <string name="start_shizuku_hint">请先启动 Shizuku，再回到小眼睛授权。</string>
+    <string name="authorized_hint">Shizuku 已授权，开启悬浮球即可跟随。</string>
+    <string name="status_global">全局跟随已连接 · 可以切换 App</string>
+    <string name="status_input_error">触摸读取失败 · 请检查 Shizuku 后重新开关小球</string>
+    <string name="notification_channel">悬浮球</string>
+    <string name="notification_title">小眼睛正在陪着你</string>
+    <string name="notification_body">拖动小球调整位置，点此返回控制页面。</string>
+</resources>

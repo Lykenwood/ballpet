@@ -1,0 +1,27 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Android: 安装并运行到手机",
+      "type": "process",
+      "command": "${workspaceFolder}/scripts/android.sh",
+      "args": ["run"],
+      "group": { "kind": "build", "isDefault": true },
+      "problemMatcher": []
+    },
+    {
+      "label": "Android: 仅构建 APK",
+      "type": "process",
+      "command": "${workspaceFolder}/scripts/android.sh",
+      "args": ["build"],
+      "problemMatcher": []
+    },
+    {
+      "label": "Android: 检查手机连接",
+      "type": "process",
+      "command": "${workspaceFolder}/scripts/android.sh",
+      "args": ["devices"],
+      "problemMatcher": []
+    }
+  ]
+}

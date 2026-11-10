@@ -1,0 +1,14 @@
+.gradle/
+.gradle-home/
+.tooling/
+**/build/
+local.properties
+.env.local
+.DS_Store
+artifacts/
+*.jks
+*.keystore
+notification-demo/
+progress-overlay/
+ring-calendar/
+transfer/
